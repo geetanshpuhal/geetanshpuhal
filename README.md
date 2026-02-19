@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 # Hi, I'm Geetansh 👋<br><br>Artificial Intelligence graduate building strong machine learning foundations through hands-on implementation.<br><br>Focused on writing clean Python, understanding ML systems deeply, and contributing to open-source projects.<br><br>Currently preparing for ML & Data roles in the UK.<br>
 
 ## 🚀 Current Focus
